@@ -7,19 +7,21 @@
 
 from solver import solve_quadratic
 
-a = 20
-b = 24
-c = 4
+a = 5
+b = 6
+c = 1
 
 answer = solve_quadratic( a , b , c )
 
-print( '\n  quadratic solver ....' )
+print( '\n  quadratic solver'  )
 
-print( '\n     a = {0}   b = {1}   c = {2} '.format( a , b , c ) )
+print( '\n    coefficients ....' )
 
-print( '\n  answer .... ' )
+print( '\n      a = {0}   b = {1}   c = {2} '.format( a , b , c ) )
 
-print( '\n    x1 ' , answer[ 0 ] )
+print( '\n\n    solution .... ' )
 
-print( '\n    x2 ' , answer[ 1 ] )
+print( '\n      x1 : ' , answer[ 0 ] )
+
+print( '\n      x2 : ' , answer[ 1 ] )
 
