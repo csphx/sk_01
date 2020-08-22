@@ -7,9 +7,9 @@
 
 from solver import solve_quadratic
 
-a = 10
-b = 12
-c = 2
+a = 20
+b = 24
+c = 4
 
 answer = solve_quadratic( a , b , c )
 
