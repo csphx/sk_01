@@ -1,6 +1,8 @@
 '''
     https://www.codewithrepl.it/01-introduction-to-the-repl-it-ide.html
 
+    quadratic equation solver
+    
     Edit_By ...... Stanley C. Kitching
     Edit_Date .... 2020-08-22
 '''
