@@ -7,7 +7,7 @@
     Edit_Date .... 2020-08-22
 '''
 
-from eq_solver import solve_quadratic
+from qeq_solver import solve_quadratic
 
 a = 5
 b = 6
