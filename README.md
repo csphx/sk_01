@@ -1,7 +1,18 @@
-Python Quadratic Equation Solver
-  Example
 
-https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-formula-a1/a/discriminant-review 
-Quadratic Equation - Dscriminant Review
+  **Python Quadratic Equation Solver**  
 
+  Edit By ...... Stanley C. Kitching  
+  Edit Date .... 2020-08-22  
+  
+  Edit Date .... 2024-02-29  
+  
+  use random integers for coefficients  
+  to be used to test the solver  
+  
+  
+  **Reference**  
+
+  [Quadratic Discriminant](https://shorturl.at/b551w)  
+  
+  
 
